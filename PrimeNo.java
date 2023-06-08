@@ -20,7 +20,7 @@ class PrimeNo
 	  if (counter ==2)
 	  {
 	     //Appended the Prime number to the String
-	     primeNumbers = primeNumbers + i + " ";
+	     primeNumbers = primeNumbers + i + "\n";
 	  }	
        }	
        System.out.println("Prime numbers from 1 to 100 are :");
